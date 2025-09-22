@@ -18,7 +18,6 @@ export const productsFromServer: Product[] = [
     name: 'iPhone 15 Pro',
     price: 1299,
     age: 2023,
-    imageUrl: 'https://via.placeholder.com/120x120?text=iPhone+15+Pro',
   },
   {
     id: '2',
@@ -32,7 +31,6 @@ export const productsFromServer: Product[] = [
     name: 'Google Pixel 7',
     price: 799,
     age: 2022,
-    imageUrl: 'https://via.placeholder.com/120x120?text=Pixel+7',
   },
   {
     id: '4',
