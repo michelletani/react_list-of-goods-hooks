@@ -147,7 +147,7 @@ export const App: React.FC = () => {
           <li
             key={product.id}
             className="box media"
-            data-cy="Product"
+            data-cy="Good"
             style={{ alignItems: 'center' }}
           >
             {product.imageUrl && (
